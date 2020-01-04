@@ -9,3 +9,14 @@ C:\Users\hailong\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\Co
 C:\Users\hailong\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
 C:\Users\hailong\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
 C:\Users\hailong\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+D:\Users\Heroy\Documents\Projects\github\C-Sharp-Code-Snipes\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb

@@ -13,7 +13,8 @@ namespace ConsoleApp1
             Console.WriteLine("方法一：" + string.Join(',', convertArray1(intarry)));
             Console.WriteLine("方法二：" + string.Join(',', convertArray2(intarry)));
 
-            //Console.ReadKey();
+            Console.ReadKey();
+            Console.WriteLine();
 
             string json = "{\"1\":\"bar\";\"2\":\"foo.bar\";\"3\":\"foo.foo\";\"4\":\"baz.cloudmall.com\";\"5\":\"baz.cloudmall.ai\"}";
 
@@ -70,7 +71,6 @@ namespace ConsoleApp1
             }
             else
             {
-
 
                 if (!parent.ContainsKey(names[0]))
                 {
